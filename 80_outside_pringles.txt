@@ -1,0 +1,9 @@
+Collecting data: Pass 1 out of 30Collecting data: Pass 2 out of 30Collecting data: Pass 3 out of 30Collecting data: Pass 4 out of 30Collecting data: Pass 5 out of 30Collecting data: Pass 6 out of 30Collecting data: Pass 7 out of 30Collecting data: Pass 8 out of 30Collecting data: Pass 9 out of 30Collecting data: Pass 10 out of 30Collecting data: Pass 11 out of 30Collecting data: Pass 12 out of 30Collecting data: Pass 13 out of 30Collecting data: Pass 14 out of 30Collecting data: Pass 15 out of 30Collecting data: Pass 16 out of 30Collecting data: Pass 17 out of 30Collecting data: Pass 18 out of 30Collecting data: Pass 19 out of 30Collecting data: Pass 20 out of 30Collecting data: Pass 21 out of 30Collecting data: Pass 22 out of 30Collecting data: Pass 23 out of 30Collecting data: Pass 24 out of 30Collecting data: Pass 25 out of 30Collecting data: Pass 26 out of 30Collecting data: Pass 27 out of 30Collecting data: Pass 28 out of 30Collecting data: Pass 29 out of 30Collecting data: Pass 30 out of 30
+Data collection took: 117.79226613
+Average time/point: 3.92640887101
+Signal levels:
+['-58', '-58', '-60', '-60', '-59', '-60', '-59', '-59', '-61', '-60', '-58', '-57', '-62', '-61', '-63', '-60', '-63', '-59', '-59', '-65', '-56', '-56', '-61', '-62', '-65', '-77', '-62', '-58', '-60', '-59']
+Quality levels:
+['74', '74', '71', '71', '73', '71', '73', '73', '70', '71', '74', '76', '69', '70', '67', '71', '67', '73', '73', '64', '77', '77', '70', '69', '64', '47', '69', '74', '71', '73']
+Average signal level: -61
+Average quality level: 70

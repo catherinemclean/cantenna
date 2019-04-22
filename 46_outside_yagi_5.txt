@@ -1,0 +1,9 @@
+Collecting data: Pass 1 out of 10Collecting data: Pass 2 out of 10Collecting data: Pass 3 out of 10Collecting data: Pass 4 out of 10Collecting data: Pass 5 out of 10Collecting data: Pass 6 out of 10Collecting data: Pass 7 out of 10Collecting data: Pass 8 out of 10Collecting data: Pass 9 out of 10Collecting data: Pass 10 out of 10
+Data collection took: 40.57725811
+Average time/point: 4.057725811
+Signal levels:
+['-59', '-56', '-56', '-55', '-54', '-58', '-58', '-54', '-55', '-52']
+Quality levels:
+['73', '77', '77', '79', '80', '74', '74', '80', '79', '83']
+Average signal level: -56
+Average quality level: 77
