@@ -15,7 +15,7 @@ def get_stats(lst):
             'deviation': pstdev(lst),
             'variance': pvariance(lst)}
 
-data_folder = '.'
+data_folder = 'data'
 
 parsed_data = []
 
