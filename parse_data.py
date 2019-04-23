@@ -8,6 +8,9 @@ import json
 def stat_range(lst):
     return max(lst) - min(lst)
 
+def avg(lst):
+    return sum(lst) / len(lst)
+
 data_folder = '.'
 
 parsed_data = []
@@ -53,11 +56,11 @@ for fn in data_files:
                             'time': atime,
                             'time/point': atp,
                             'signal_levels': slevels,
-                            'signal_stats': {'mean': avg_sig,
+                            'signal_stats': {'mean': avg(slevels),
                                              'median': int(median(slevels)),
                                              'range': stat_range(slevels)},
                             'quality_levels': qlevels,
-                            'quality_stats': {'mean': avg_qal,
+                            'quality_stats': {'mean': avg(qlevels),
                                               'median': int(median(qlevels)),
                                               'range': stat_range(qlevels)}})
 
