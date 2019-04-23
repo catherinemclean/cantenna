@@ -2,14 +2,18 @@
 from os import listdir
 from os.path import isfile, join, getsize
 import ast
-from statistics import median
+from statistics import median, mean, pstdev, pvariance
 import json
 
 def stat_range(lst):
     return max(lst) - min(lst)
 
-def avg(lst):
-    return sum(lst) / len(lst)
+def get_stats(lst):
+    return {'mean': mean(lst),
+            'median': median(lst),
+            'range': stat_range(lst),
+            'deviation': pstdev(lst),
+            'variance': pvariance(lst)}
 
 data_folder = '.'
 
@@ -56,12 +60,8 @@ for fn in data_files:
                             'time': atime,
                             'time/point': atp,
                             'signal_levels': slevels,
-                            'signal_stats': {'mean': avg(slevels),
-                                             'median': int(median(slevels)),
-                                             'range': stat_range(slevels)},
+                            'signal_stats': get_stats(slevels),
                             'quality_levels': qlevels,
-                            'quality_stats': {'mean': avg(qlevels),
-                                              'median': int(median(qlevels)),
-                                              'range': stat_range(qlevels)}})
+                            'quality_stats':  get_stats(qlevels)})
 
 print(json.dumps(parsed_data, indent=4))

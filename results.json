@@ -40,8 +40,10 @@
         ],
         "signal_stats": {
             "mean": -46.6,
-            "median": -46,
-            "range": 21
+            "median": -46.0,
+            "range": 21,
+            "deviation": 3.7558842722675396,
+            "variance": 14.106666666666667
         },
         "quality_levels": [
             94,
@@ -77,8 +79,10 @@
         ],
         "quality_stats": {
             "mean": 90.6,
-            "median": 91,
-            "range": 30
+            "median": 91.0,
+            "range": 30,
+            "deviation": 5.339163480046913,
+            "variance": 28.506666666666668
         }
     },
     {
@@ -122,8 +126,10 @@
         ],
         "signal_stats": {
             "mean": -53.6,
-            "median": -53,
-            "range": 18
+            "median": -53.5,
+            "range": 18,
+            "deviation": 4.3328204824725125,
+            "variance": 18.773333333333333
         },
         "quality_levels": [
             79,
@@ -159,8 +165,10 @@
         ],
         "quality_stats": {
             "mean": 80.5,
-            "median": 80,
-            "range": 25
+            "median": 80.5,
+            "range": 25,
+            "deviation": 6.146814893368218,
+            "variance": 37.78333333333333
         }
     },
     {
@@ -204,8 +212,10 @@
         ],
         "signal_stats": {
             "mean": -45.56666666666667,
-            "median": -44,
-            "range": 19
+            "median": -44.0,
+            "range": 19,
+            "deviation": 4.772723424721874,
+            "variance": 22.77888888888889
         },
         "quality_levels": [
             91,
@@ -241,8 +251,10 @@
         ],
         "quality_stats": {
             "mean": 91.96666666666667,
-            "median": 94,
-            "range": 28
+            "median": 94.0,
+            "range": 28,
+            "deviation": 6.935336249158284,
+            "variance": 48.098888888888894
         }
     },
     {
@@ -286,8 +298,10 @@
         ],
         "signal_stats": {
             "mean": -53.733333333333334,
-            "median": -50,
-            "range": 27
+            "median": -50.5,
+            "range": 27,
+            "deviation": 6.757382793820565,
+            "variance": 45.66222222222222
         },
         "quality_levels": [
             84,
@@ -323,8 +337,10 @@
         ],
         "quality_stats": {
             "mean": 80.46666666666667,
-            "median": 85,
-            "range": 39
+            "median": 85.0,
+            "range": 39,
+            "deviation": 9.776616092607004,
+            "variance": 95.58222222222223
         }
     },
     {
@@ -368,8 +384,10 @@
         ],
         "signal_stats": {
             "mean": -50.93333333333333,
-            "median": -51,
-            "range": 16
+            "median": -51.0,
+            "range": 16,
+            "deviation": 3.129785225148134,
+            "variance": 9.795555555555556
         },
         "quality_levels": [
             83,
@@ -405,8 +423,10 @@
         ],
         "quality_stats": {
             "mean": 84.36666666666666,
-            "median": 84,
-            "range": 23
+            "median": 84.0,
+            "range": 23,
+            "deviation": 4.5349261907505785,
+            "variance": 20.565555555555555
         }
     },
     {
@@ -450,8 +470,10 @@
         ],
         "signal_stats": {
             "mean": -54.86666666666667,
-            "median": -55,
-            "range": 13
+            "median": -55.5,
+            "range": 13,
+            "deviation": 3.844765561412324,
+            "variance": 14.782222222222222
         },
         "quality_levels": [
             77,
@@ -487,8 +509,10 @@
         ],
         "quality_stats": {
             "mean": 78.73333333333333,
-            "median": 78,
-            "range": 19
+            "median": 78.0,
+            "range": 19,
+            "deviation": 5.615059117132151,
+            "variance": 31.52888888888889
         }
     },
     {
@@ -512,8 +536,10 @@
         ],
         "signal_stats": {
             "mean": -51.9,
-            "median": -51,
-            "range": 10
+            "median": -51.0,
+            "range": 10,
+            "deviation": 3.1128764832546763,
+            "variance": 9.69
         },
         "quality_levels": [
             76,
@@ -528,9 +554,11 @@
             74
         ],
         "quality_stats": {
-            "mean": 83.0,
-            "median": 84,
-            "range": 15
+            "mean": 83,
+            "median": 84.0,
+            "range": 15,
+            "deviation": 4.538722287164087,
+            "variance": 20.6
         }
     },
     {
@@ -552,9 +580,11 @@
             -56
         ],
         "signal_stats": {
-            "mean": -57.0,
+            "mean": -57,
             "median": -56,
-            "range": 11
+            "range": 11,
+            "deviation": 3.1622776601683795,
+            "variance": 10
         },
         "quality_levels": [
             70,
@@ -570,7 +600,9 @@
         "quality_stats": {
             "mean": 75.66666666666667,
             "median": 77,
-            "range": 16
+            "range": 16,
+            "deviation": 4.570436400267363,
+            "variance": 20.88888888888889
         }
     },
     {
@@ -593,9 +625,11 @@
             -54
         ],
         "signal_stats": {
-            "mean": -53.0,
-            "median": -52,
-            "range": 12
+            "mean": -53,
+            "median": -52.0,
+            "range": 12,
+            "deviation": 3.0983866769659336,
+            "variance": 9.6
         },
         "quality_levels": [
             84,
@@ -611,8 +645,10 @@
         ],
         "quality_stats": {
             "mean": 81.4,
-            "median": 83,
-            "range": 17
+            "median": 83.0,
+            "range": 17,
+            "deviation": 4.363484845854286,
+            "variance": 19.04
         }
     },
     {
@@ -636,8 +672,10 @@
         ],
         "signal_stats": {
             "mean": -55.7,
-            "median": -55,
-            "range": 7
+            "median": -55.5,
+            "range": 7,
+            "deviation": 2.0518284528683193,
+            "variance": 4.21
         },
         "quality_levels": [
             73,
@@ -653,8 +691,10 @@
         ],
         "quality_stats": {
             "mean": 77.6,
-            "median": 78,
-            "range": 10
+            "median": 78.0,
+            "range": 10,
+            "deviation": 3.0397368307141326,
+            "variance": 9.24
         }
     },
     {
@@ -698,8 +738,10 @@
         ],
         "signal_stats": {
             "mean": -43.166666666666664,
-            "median": -42,
-            "range": 19
+            "median": -42.0,
+            "range": 19,
+            "deviation": 4.203834228680077,
+            "variance": 17.67222222222222
         },
         "quality_levels": [
             100,
@@ -735,8 +777,10 @@
         ],
         "quality_stats": {
             "mean": 95.5,
-            "median": 97,
-            "range": 26
+            "median": 97.0,
+            "range": 26,
+            "deviation": 6.026331111602371,
+            "variance": 36.31666666666667
         }
     },
     {
@@ -760,8 +804,10 @@
         ],
         "signal_stats": {
             "mean": -42.6,
-            "median": -43,
-            "range": 3
+            "median": -43.0,
+            "range": 3,
+            "deviation": 1.019803902718557,
+            "variance": 1.04
         },
         "quality_levels": [
             97,
@@ -777,8 +823,10 @@
         ],
         "quality_stats": {
             "mean": 96.4,
-            "median": 96,
-            "range": 5
+            "median": 96.0,
+            "range": 5,
+            "deviation": 1.624807680927192,
+            "variance": 2.64
         }
     },
     {
@@ -822,8 +870,10 @@
         ],
         "signal_stats": {
             "mean": -54.53333333333333,
-            "median": -54,
-            "range": 18
+            "median": -54.0,
+            "range": 18,
+            "deviation": 3.9135093657171125,
+            "variance": 15.315555555555555
         },
         "quality_levels": [
             76,
@@ -859,8 +909,10 @@
         ],
         "quality_stats": {
             "mean": 79.26666666666667,
-            "median": 80,
-            "range": 26
+            "median": 80.0,
+            "range": 26,
+            "deviation": 5.561374730126436,
+            "variance": 30.92888888888889
         }
     },
     {
@@ -904,8 +956,10 @@
         ],
         "signal_stats": {
             "mean": -57.03333333333333,
-            "median": -56,
-            "range": 15
+            "median": -56.5,
+            "range": 15,
+            "deviation": 3.3514507638069553,
+            "variance": 11.232222222222223
         },
         "quality_levels": [
             71,
@@ -941,8 +995,10 @@
         ],
         "quality_stats": {
             "mean": 75.56666666666666,
-            "median": 76,
-            "range": 22
+            "median": 76.5,
+            "range": 22,
+            "deviation": 4.758734659082765,
+            "variance": 22.645555555555557
         }
     },
     {
@@ -986,8 +1042,10 @@
         ],
         "signal_stats": {
             "mean": -54.4,
-            "median": -53,
-            "range": 32
+            "median": -53.0,
+            "range": 32,
+            "deviation": 6.458069887099912,
+            "variance": 41.70666666666666
         },
         "quality_levels": [
             69,
@@ -1023,8 +1081,10 @@
         ],
         "quality_stats": {
             "mean": 79.43333333333334,
-            "median": 81,
-            "range": 45
+            "median": 81.0,
+            "range": 45,
+            "deviation": 9.163999612008334,
+            "variance": 83.97888888888889
         }
     },
     {
@@ -1068,8 +1128,10 @@
         ],
         "signal_stats": {
             "mean": -50.9,
-            "median": -51,
-            "range": 9
+            "median": -51.0,
+            "range": 9,
+            "deviation": 1.9553345834749953,
+            "variance": 3.8233333333333333
         },
         "quality_levels": [
             89,
@@ -1105,8 +1167,10 @@
         ],
         "quality_stats": {
             "mean": 84.43333333333334,
-            "median": 84,
-            "range": 13
+            "median": 84.0,
+            "range": 13,
+            "deviation": 2.9403325586667157,
+            "variance": 8.645555555555555
         }
     },
     {
@@ -1150,8 +1214,10 @@
         ],
         "signal_stats": {
             "mean": -54.2,
-            "median": -54,
-            "range": 18
+            "median": -54.0,
+            "range": 18,
+            "deviation": 3.1559467676119,
+            "variance": 9.959999999999999
         },
         "quality_levels": [
             80,
@@ -1187,8 +1253,10 @@
         ],
         "quality_stats": {
             "mean": 79.7,
-            "median": 80,
-            "range": 26
+            "median": 80.0,
+            "range": 26,
+            "deviation": 4.56909910886891,
+            "variance": 20.876666666666665
         }
     },
     {
@@ -1211,9 +1279,11 @@
             -57
         ],
         "signal_stats": {
-            "mean": -55.0,
-            "median": -55,
-            "range": 9
+            "mean": -55,
+            "median": -55.0,
+            "range": 9,
+            "deviation": 3.1622776601683795,
+            "variance": 10
         },
         "quality_levels": [
             83,
@@ -1229,8 +1299,10 @@
         ],
         "quality_stats": {
             "mean": 78.6,
-            "median": 78,
-            "range": 13
+            "median": 78.5,
+            "range": 13,
+            "deviation": 4.498888751680797,
+            "variance": 20.24
         }
     },
     {
@@ -1274,8 +1346,10 @@
         ],
         "signal_stats": {
             "mean": -57.166666666666664,
-            "median": -57,
-            "range": 16
+            "median": -57.0,
+            "range": 16,
+            "deviation": 3.751296072322501,
+            "variance": 14.072222222222223
         },
         "quality_levels": [
             70,
@@ -1311,8 +1385,10 @@
         ],
         "quality_stats": {
             "mean": 75.46666666666667,
-            "median": 76,
-            "range": 23
+            "median": 76.0,
+            "range": 23,
+            "deviation": 5.3149683807986,
+            "variance": 28.24888888888889
         }
     },
     {
@@ -1356,8 +1432,10 @@
         ],
         "signal_stats": {
             "mean": -60.56666666666667,
-            "median": -60,
-            "range": 21
+            "median": -60.0,
+            "range": 21,
+            "deviation": 3.7654865407924234,
+            "variance": 14.17888888888889
         },
         "quality_levels": [
             74,
@@ -1393,8 +1471,10 @@
         ],
         "quality_stats": {
             "mean": 70.53333333333333,
-            "median": 71,
-            "range": 30
+            "median": 71.0,
+            "range": 30,
+            "deviation": 5.389702115042063,
+            "variance": 29.04888888888889
         }
     },
     {
@@ -1438,8 +1518,10 @@
         ],
         "signal_stats": {
             "mean": -53.3,
-            "median": -54,
-            "range": 14
+            "median": -54.0,
+            "range": 14,
+            "deviation": 2.734349404642111,
+            "variance": 7.476666666666667
         },
         "quality_levels": [
             81,
@@ -1474,9 +1556,11 @@
             83
         ],
         "quality_stats": {
-            "mean": 81.0,
-            "median": 80,
-            "range": 20
+            "mean": 81,
+            "median": 80.0,
+            "range": 20,
+            "deviation": 3.8987177379235853,
+            "variance": 15.2
         }
     },
     {
@@ -1500,8 +1584,10 @@
         ],
         "signal_stats": {
             "mean": -54.4,
-            "median": -54,
-            "range": 3
+            "median": -54.0,
+            "range": 3,
+            "deviation": 1.019803902718557,
+            "variance": 1.04
         },
         "quality_levels": [
             81,
@@ -1517,8 +1603,10 @@
         ],
         "quality_stats": {
             "mean": 79.4,
-            "median": 80,
-            "range": 4
+            "median": 80.0,
+            "range": 4,
+            "deviation": 1.3564659966250536,
+            "variance": 1.84
         }
     }
 ]
