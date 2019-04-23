@@ -1,3 +1,0 @@
-[submodule "iw_parse"]
-	path = iw_parse
-	url = https://github.com/cuzzo/iw_parse.git
