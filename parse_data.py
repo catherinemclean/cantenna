@@ -2,7 +2,7 @@
 from os import listdir
 from os.path import isfile, join, getsize
 import ast
-from statistics import median, mean, pstdev, pvariance
+from statistics import median, mean, stdev, variance
 import json
 
 def stat_range(lst):
@@ -12,8 +12,8 @@ def get_stats(lst):
     return {'mean': mean(lst),
             'median': median(lst),
             'range': stat_range(lst),
-            'deviation': pstdev(lst),
-            'variance': pvariance(lst)}
+            'deviation': stdev(lst),
+            'variance': variance(lst)}
 
 data_folder = 'data'
 
