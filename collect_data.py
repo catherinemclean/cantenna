@@ -6,7 +6,7 @@ from time import sleep
 from time import time
 
 TARGET = 'RogueOne'
-DATA_PASSES = 30
+DATA_PASSES = 5
 
 def get_data():
     return iw_parse.get_interfaces(interface='wlan0')
